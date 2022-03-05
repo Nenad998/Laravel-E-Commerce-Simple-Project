@@ -1,0 +1,17 @@
+.table-row{
+    height: 30px;
+}
+.table-row{
+    font-size: 20px;
+}
+.aws_icon{
+    color: #212529;
+}
+
+.aws_icon:hover{
+    color: #212529;
+}
+
+.admin_table_td{
+    display: inline-block;
+}
